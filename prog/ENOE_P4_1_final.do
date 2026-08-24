@@ -18,7 +18,7 @@ set more off
 set varabbrev off
 
 *------------------------------------------------------------------
-* 0. PARÁMETROS  (AJUSTAR)
+* 0. PARÁMETROS
 *------------------------------------------------------------------
 global base "C:/Users/lcastillo/Downloads/ENOE/ENOE_todas.dta"
 global out  "C:/Users/lcastillo/Downloads/RESULTADOS/ENOE"
